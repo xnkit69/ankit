@@ -2,7 +2,7 @@ var myEnv = (() => {
     const environment = {
         // create your own api key from: https://web3forms.com/
         // this api key can be public.
-        web3FormsApiKey: "de7ffb6e-9b44-41be-8163-3f3902eeeb65",
+        web3FormsApiKey: "229fa972-9a72-4c89-b429-e4d6be70021e",
     }
     return {
         getVariable: (key) => {
